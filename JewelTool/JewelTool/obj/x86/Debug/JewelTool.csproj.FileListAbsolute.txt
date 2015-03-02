@@ -1,0 +1,17 @@
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\bin\Debug\JewelTool.exe
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\bin\Debug\JewelTool.pdb
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\obj\x86\Debug\JewelTool.Form1.resources
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\obj\x86\Debug\JewelTool.Properties.Resources.resources
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\obj\x86\Debug\JewelTool.csproj.GenerateResource.Cache
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\obj\x86\Debug\JewelTool.exe
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\obj\x86\Debug\JewelTool.pdb
+C:\Users\Abel Gancsos\Desktop\JewelTool\JewelTool\obj\x86\Debug\JewelTool.csprojResolveAssemblyReference.cache
+G:\apps\ATM\Windows\JewelTool\JewelTool\bin\Debug\Properties\sqlite3.exe
+G:\apps\ATM\Windows\JewelTool\JewelTool\bin\Debug\JewelTool.exe
+G:\apps\ATM\Windows\JewelTool\JewelTool\bin\Debug\JewelTool.pdb
+G:\apps\ATM\Windows\JewelTool\JewelTool\obj\x86\Debug\JewelTool.Form1.resources
+G:\apps\ATM\Windows\JewelTool\JewelTool\obj\x86\Debug\JewelTool.Properties.Resources.resources
+G:\apps\ATM\Windows\JewelTool\JewelTool\obj\x86\Debug\JewelTool.csproj.GenerateResource.Cache
+G:\apps\ATM\Windows\JewelTool\JewelTool\obj\x86\Debug\JewelTool.exe
+G:\apps\ATM\Windows\JewelTool\JewelTool\obj\x86\Debug\JewelTool.pdb
+G:\apps\ATM\Windows\JewelTool\JewelTool\obj\x86\Debug\JewelTool.csprojResolveAssemblyReference.cache
