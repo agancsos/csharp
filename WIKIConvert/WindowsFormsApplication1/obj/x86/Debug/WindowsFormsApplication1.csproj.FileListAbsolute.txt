@@ -1,0 +1,25 @@
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\abel gancsos\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\bin\Debug\WIKIConvert.exe.config
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\bin\Debug\WIKIConvert.exe
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\bin\Debug\WIKIConvert.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WIKIConvert.exe
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WIKIConvert.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WIKIConvert.Properties.Resources.resources
