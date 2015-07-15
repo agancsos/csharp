@@ -6,3 +6,11 @@ C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WIKIConv
 C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WIKIConvert\obj\x86\Release\WIKIConvert.csproj.GenerateResource.Cache
 C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WIKIConvert\obj\x86\Release\WIKIConvert.exe
 C:\Users\Abel Gancsos\Documents\Visual Studio 2010\Projects\WIKIConvert\WIKIConvert\obj\x86\Release\WIKIConvert.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\bin\Release\WIKIConvert.exe.config
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WIKIConvert.exe
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WIKIConvert.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\bin\Release\WIKIConvert.exe
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\bin\Release\WIKIConvert.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WIKIConvert.Properties.Resources.resources
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WIKIConvert.csproj.GenerateResource.Cache

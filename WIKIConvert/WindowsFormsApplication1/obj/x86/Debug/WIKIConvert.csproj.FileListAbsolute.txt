@@ -1,8 +1,0 @@
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\bin\Debug\WIKIConvert.exe.config
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\bin\Debug\WIKIConvert.exe
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\bin\Debug\WIKIConvert.pdb
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WIKIConvert.Properties.Resources.resources
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WIKIConvert.csproj.GenerateResource.Cache
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WIKIConvert.exe
-D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.0.0\WindowsFormsApplication1\obj\x86\Debug\WIKIConvert.pdb

@@ -79,6 +79,7 @@ namespace WindowsFormsApplication1{
   }
   private void Form1_Load(object sender, EventArgs e){
    richTextBox1.TextChanged+=new EventHandler(RichTextBox1_changed);
+   richTextBox1.VScroll += new EventHandler(RichTextBox1_changed);
   }
   protected override bool ProcessCmdKey(ref Message msg, Keys keyData){
    if (keyData == (Keys.Control | Keys.K)){
@@ -102,8 +103,15 @@ namespace WindowsFormsApplication1{
   }
   public void RichTextBox1_changed(object sender,EventArgs e){
    richTextBox2.Text="";
-   for(int i=0;i<richTextBox1.Text.Split('\n').Count();i++){
-    richTextBox2.Text+=i+"\n";
+   var p1 = richTextBox1.GetPositionFromCharIndex(0);
+   var p2 = richTextBox1.GetPositionFromCharIndex(richTextBox1.TextLength - 1);
+   int start = -p1.Y;
+   if (start > 0){
+    start /= 15;
+   }
+   int max = p2.Y - p1.Y - richTextBox1.ClientSize.Height;
+   for (int i = start; i < richTextBox1.Text.Split('\n').Count(); i++){
+    richTextBox2.Text += i + "\n";
    }
   }
   private void button1_Click(object sender, EventArgs e){
