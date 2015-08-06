@@ -13,7 +13,7 @@ namespace WindowsFormsApplication1{
   public Form1(){
    InitializeComponent();
    label1.Text="(c) "+DateTime.Today.Year+" Abel Gancsos Productions";
-   label2.Text="v. 1.1.0";
+   label2.Text="v. 1.1.1";
    label3.Text="";
    richTextBox1.EnableAutoDragDrop=true;
    richTextBox1.Font=new Font("Consolas",10,FontStyle.Regular);
@@ -32,39 +32,42 @@ namespace WindowsFormsApplication1{
  
   public static String wikiTable(String path){
    String final="{|class=\"wikitable\"\n";
-   using (FileStream fs = File.Open(path, FileMode.Open)){
-    byte[] b = new byte[1024];
-    UTF8Encoding temp = new UTF8Encoding(true);
-    int i=0;
-    while (fs.Read(b, 0, b.Length) > 0){
-     String line=temp.GetString(b);
-     String[]cols=line.Split(',');
-     if(i==0){
-      for(int j=0;j<cols.Count();j++){
-       if(j==0){
-        final+="! ";
-       }
-       else{
-        final+=" !! ";
-       }
-       final+=cols[j];
+   String[] lines = System.IO.File.ReadAllLines(path);
+   for(int i = 0; i < lines.Count(); i++) {
+    String line = lines[i];
+    String[] cols = line.Split(',');
+    if (i == 0)
+    {
+     for (int j = 0; j < cols.Count(); j++)
+     {
+      if (j == 0)
+      {
+       final += "| ";
       }
-      final+="\n|-\n";
-     }
-     else{
-      final+="| ";
-      for(int j=0;j<cols.Count();j++){
-       if(j>0){
-        final+="||";
-       }
-       final+=cols[j];
+      else
+      {
+       final += " || ";
       }
-      final+="\n|-\n"; 
+      final += cols[j];
      }
-     i++;
+     final += "\n|-\n";
     }
-    final+="|}";
-   }
+    else
+    {
+     final += "| ";
+     for (int j = 0; j < cols.Count(); j++)
+     {
+      if (j > 0)
+      {
+       final += "||";
+      }
+      final += cols[j];
+     }
+     final += "\n|-\n";
+    }
+    i++;
+   } 
+   final+="|}";
    return final;
   }
   public static String wikiParse(String path){

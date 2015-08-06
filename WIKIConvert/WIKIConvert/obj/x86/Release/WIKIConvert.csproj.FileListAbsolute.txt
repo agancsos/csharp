@@ -14,3 +14,12 @@ D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\bin\Releas
 D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WindowsFormsApplication1.Form1.resources
 D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WIKIConvert.Properties.Resources.resources
 D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.0\WIKIConvert\obj\x86\Release\WIKIConvert.csproj.GenerateResource.Cache
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\bin\Release\WIKIConvert.exe.config
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\obj\x86\Release\WIKIConvert.exe
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\obj\x86\Release\WIKIConvert.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\bin\Release\WIKIConvert.exe
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\bin\Release\WIKIConvert.pdb
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\obj\x86\Release\WIKIConvert.csprojResolveAssemblyReference.cache
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\obj\x86\Release\WIKIConvert.Properties.Resources.resources
+D:\Programs\Abel_Gancsos_Productions\C#\WIKIConvert\1.1.1\WIKIConvert\obj\x86\Release\WIKIConvert.csproj.GenerateResource.Cache
