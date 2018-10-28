@@ -1,0 +1,12 @@
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\bin\Debug\AMGToolKit.exe.config
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\bin\Debug\AMGToolKit.exe
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\bin\Debug\AMGToolKit.pdb
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\obj\Debug\AMGToolKit.csprojAssemblyReference.cache
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\obj\Debug\AMGToolKit.csproj.CoreCompileInputs.cache
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\obj\Debug\AMGToolKit.exe
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\obj\Debug\AMGToolKit.pdb
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\bin\Debug\Microsoft.Deployment.WindowsInstaller.Linq.dll
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\bin\Debug\Microsoft.Deployment.WindowsInstaller.Linq.xml
+C:\Users\agancsos\Desktop\AMGToolKit\AMGToolKit\obj\Debug\AMGToolKit.csproj.CopyComplete
